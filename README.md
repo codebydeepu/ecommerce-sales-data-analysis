@@ -1,6 +1,6 @@
 # E-Commerce Sales Data Analysis
 
-This project analyzes an e-commerce sales dataset using Python
+This project analyzes an e-commerce sales dataset using Python.
 
 ## Tools Used
 - Python
